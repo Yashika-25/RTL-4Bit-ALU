@@ -1,6 +1,6 @@
 # 4-Bit ALU Design and Verification in Verilog
 
-**Description**
+## **Description**
 This repository contains the complete RTL design and verification environment for a 4-bit Arithmetic Logic Unit (ALU). The project demonstrates a foundational digital design workflow, from writing the hardware description in Verilog to performing rigorous functional verification using the industry-standard Cadence toolchain.
 
 **Features**
