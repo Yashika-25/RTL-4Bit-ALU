@@ -38,7 +38,7 @@ The functionality of the RTL design was validated through a comprehensive, self-
 
 **Console Logging:** The testbench used Verilog's $display and $monitor system tasks to print the status and results of each test case to the console, providing a clear, human-readable log.
 
-**Waveform Analysis:*8 The simulation was run with signal tracing enabled, and the resulting waveforms were loaded into SimVision for detailed graphical analysis. This allowed for visual confirmation that all signals behaved as expected at the correct simulation times.
+**Waveform Analysis:** The simulation was run with signal tracing enabled, and the resulting waveforms were loaded into SimVision for detailed graphical analysis. This allowed for visual confirmation that all signals behaved as expected at the correct simulation times.
 
 ## **Results**
 The design passed all test cases defined in the testbench. The simulation waveform below shows the ALU correctly performing each of the eight operations in sequence, with the output Y_tb changing in response to the inputs A_tb, B_tb, and the select line S_tb.
