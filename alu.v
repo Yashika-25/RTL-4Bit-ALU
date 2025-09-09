@@ -1,3 +1,4 @@
+`timescale 1ns / 1ps // Defines the time unit and precision for simulation
 module alu(
     // Inputs
     input [3:0] A,      // 4-bit data input A
